@@ -8,7 +8,7 @@ comment: false
 categories:
   - Programming
 date: 2011-11-14 18:32:38
-modified: 2018-03-16T10:40:08.928905-04:00
+modified: 2018-03-25T15:48:02.312887-04:00
 ---
 
 At my previous employer, our goal was to stain tissue samples such that a pathologist could examine them microscopically and easily make unambiguous diagnoses of disease state. Experiments typically involved getting subjective judgments from pathologists about which samples were "better" in some way. How do you do statistics on those type of results?
@@ -24,20 +24,20 @@ So, I created a tool to help myself and my colleagues analyze such data. It's wr
 
 Here's a screen shot of the application after it starts up:
 
-[![Image of the Wilcoxon Matched Pairs program startup screen](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-Start.jpg "Image of the Wilcoxon Matched Pairs program startup screen")<br><small>Wilcoxon Matched Pairs program startup</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-Start.jpg)
+[![Image of the Wilcoxon Matched Pairs program startup screen](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-Start.jpg "Image of the Wilcoxon Matched Pairs program startup screen")<br><small>Wilcoxon Matched Pairs program startup</small>](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-Start.jpg)
 
 
 The interface displays an area for data input. Although data can be entered here, it is really intended that data be loaded from a specially formatted data file, as explained in the "readme.md" file in the repository. (This is an example of my dissatisfaction with data entry components available for Java as elaborated [here](http://yo-dave.com/2011/11/14/2011-11-14-wilcoxon-matched-pairs/ "Dissatisfaction with Java data grid components").)
 
 Once a suitable data file is loaded, the data and some metadata are available for inspection.
 
-[![Image of the Wilcoxon Matched Pairs program after loading some data](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataLoaded.jpg "Image of the Wilcoxon Matched Pairs program after loading some data")<br><small>The Wilcoxon Matched Pairs program after loading some data</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataLoaded.jpg)
+[![Image of the Wilcoxon Matched Pairs program after loading some data](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataLoaded.jpg "Image of the Wilcoxon Matched Pairs program after loading some data")<br><small>The Wilcoxon Matched Pairs program after loading some data</small>](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataLoaded.jpg)
 
 In this example the data appears to be on an interval scale, but in fact, it is ordinal. The program also shows the number of data pairs (useful for larger datasets) and there is a drop down that shows all of the valid scores in order.
 
 A click on the "Analyze" button does the work.
 
-[![Image of the Wilcoxon Matched Pairs program after analyzing some data](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataAnalyzed.jpg "Image of the Wilcoxon Matched Pairs program after analyzing some data")<br><small>The Wilcoxon Matched Pairs program after analyzing some data</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataAnalyzed.jpg)
+[![Image of the Wilcoxon Matched Pairs program after analyzing some data](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataAnalyzed.jpg "Image of the Wilcoxon Matched Pairs program after analyzing some data")<br><small>The Wilcoxon Matched Pairs program after analyzing some data</small>](/static/img/2011-11-14-Wilkoxon-Matched-Pairs-VassarDataAnalyzed.jpg)
 
 The analysis shows the number of usable (non-tie) data pairs as well as some intermediate values in the calculations. The value of p is used to judge the significance of the difference in medians. In this case, the value of 0.035 is usually considered to be significant.
 

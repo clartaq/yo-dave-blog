@@ -9,6 +9,7 @@ comment: false
 categories:
   - programming
 date: 2011-06-14 16:57:28
+modified: 2018-03-25T15:37:06.632986-04:00
 ---
 
 Way back in my career there was a need to calculate binomial confidence intervals on experiments with very large numbers of trials (thousands to tens of thousands.) The statistics packages of the time couldn't seem to handle such large numbers of trials.
@@ -29,7 +30,7 @@ Mgr: "Oh. Well, that's OK then."
 
 Since the programs available to me at the time could not handle the level of replication we were using, I wrote my own. As I recall, the first version of the program was written in C and ran at the command line. Later versions were written in Delphi and gained a GUI. The current version is in Java. It looks like this.
 
-[![Image of binomial confidence interval calculator](https://github.com/clartaq/yo-dave/raw/master/images/2011-06-14-BinomConf.png "BinomConf")<br><small>Screenshot of the Binomial Confidence Calculator</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-06-14-BinomConf.png)
+[![Image of binomial confidence interval calculator](/static/img/2011-06-14-BinomConf.png "BinomConf")<br><small>Screenshot of the Binomial Confidence Calculator</small>](/static/img/2011-06-14-BinomConf.png)
 
 
 Although I still use the program for its original purpose, I also use it as a quick reminder of how to do certain things I do over and over. (I have no memory for small configuration details.) Some of these things include validation of user input, unit testing at the GUI level, saving user preference data, writing help, and so on.

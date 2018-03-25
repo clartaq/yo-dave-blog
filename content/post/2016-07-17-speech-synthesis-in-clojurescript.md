@@ -5,6 +5,7 @@ tags:
   - clojurescript
   - voice
 date: 2016-07-17 12:35:08
+modified: 2018-03-25T16:01:06.923778-04:00
 ---
 
 Just like everyone else, it seems, I've been following all of the news about voice-activated personal assistants. There are all the commercial offerings like Siri, Alexa, Cortana, and so on, as well as some DIY projects on the web, like this [one](https://blog.truthlabs.com/rethinking-voice-search-2496640fdec2#.uvnrkmji0) and [this one](https://howchoo.com/g/yti5mmq0ntu/add-voice-controls-to-your-raspberry-pi-using-jasper) and [this one](http://www.instructables.com/id/Raspberri-Personal-Assistant/).
@@ -28,7 +29,7 @@ lein figwheel
 
 you will build the project and start it running in your default browser. If your browser supports speech synthesis, the browser page should look like this:
 
-[![Speech Synthesis UI Clip](https://github.com/clartaq/yo-dave/raw/master/images/2016-07-17-Speech_Synthesis_UI_Clip.PNG "Speech Synthesis UI")<br><small>Speech Synthesis UI</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-07-17-Speech_Synthesis_UI_Clip.PNG)
+[![Speech Synthesis UI Clip](/static/img/2016-07-17-Speech_Synthesis_UI_Clip.PNG "Speech Synthesis UI")<br><small>Speech Synthesis UI</small>](/static/img/2016-07-17-Speech_Synthesis_UI_Clip.PNG)
 
 In my testing on Windows 10, only [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [Chrome](https://www.google.com/chrome/) supported the necessary API. Just type something into the empty text box and click the big button at the bottom labeled "Speak". You can also fiddle with the voice used, the volume it speaks at, the rate it speaks, and the pitch.
 

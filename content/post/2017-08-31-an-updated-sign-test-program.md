@@ -1,6 +1,7 @@
 ---
 title: An Updated Sign Test Program
 date: 2017-08-31 13:05:51
+modified: 2018-03-25T16:10:26.633289-04:00
 tags:
   - statistics
   - clojure
@@ -17,7 +18,7 @@ The sign test is still useful to me on occasion, but the application framework u
 
 So I've updated the program a bit. Here's what it looks like now.
 
-[![A New Version of the Sign Test Program](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-32-new-sign-test-program.PNG "A New Version of the Sign Test Program")<br><small>A New Version of the Sign Test Program</small>](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-32-new-sign-test-program.PNG)
+[![A New Version of the Sign Test Program](/static/img/2017-08-32-new-sign-test-program.PNG "A New Version of the Sign Test Program")<br><small>A New Version of the Sign Test Program</small>](/static/img/2017-08-32-new-sign-test-program.PNG)
 
  It looks similar and produces exactly the same results, but
 

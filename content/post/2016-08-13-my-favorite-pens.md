@@ -1,6 +1,7 @@
 ---
 title: My Favorite Pens
 date: 2016-08-13
+modified: 2018-03-25T16:02:29.339254-04:00
 tags:
   - writing
   - note-taking
@@ -14,13 +15,13 @@ I've spent a fair amount of time using the [Pilot® Razor Point®](https://www.a
 
 The perfect pen for me seems to be another fiber tip pen, the [Pigma Micron 03 (0.35mm)](https://www.amazon.com/Sakura-50037-6-Piece-Micron-03-0-35mm/dp/B00K3KRMK8/ref=wl_mb_wl_huc_mrai_2_dp). They move smoothly across most paper and lay down an easy-to-read, permanent, dead-black line. They never smear and work pretty well on flimsy paper. I've never noticed any bleed-through. They come in multiple, well-defined widths and are favorites for drawing as well as writing.
 
-[![Sakura Pigma Pen](https://github.com/clartaq/yo-dave/raw/master/images/2016-08-13-Sakura_Pigma_03_Pen.jpg "The Sakura Pigma Pen")<br><small>The Sakura Pigma 03 Pen</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-08-13-Sakura_Pigma_03_Pen.jpg)
+[![Sakura Pigma Pen](/static/img/2016-08-13-Sakura_Pigma_03_Pen.jpg "The Sakura Pigma Pen")<br><small>The Sakura Pigma 03 Pen</small>](/static/img/2016-08-13-Sakura_Pigma_03_Pen.jpg)
 
 If you're looking for colors in a specific width, purchasing from an [art supply store](http://www.dickblick.com/products/sakura-pigma-micron-pen/) is usually easier than trying to find them on Amazon. They might even be a little cheaper if you get a good deal on shipping.
 
 An almost perfect alternative is the [Sharpie® Pen](https://www.amazon.com/Sharpie-Black-Porous-Point-1744769/dp/B007RTMEX8/ref=sr_1_5?s=office-products&ie=UTF8&qid=1471117903&sr=1-5&keywords=sharpie+pens). I can't find any specifics on the line width, but it looks and feels just like the Micron 03. It's barrel is just a little less comfortable in my hand when writing. Otherwise, it would be a tie between these two. As a bonus, they can sometimes be found for a lower price than the Sakuras.
 
-[![The Sharpie Pen](https://github.com/clartaq/yo-dave/raw/master/images/2016-08-13-Sharpie_Pen.jpg "The Sharpie Pen")<br><small>The Sharpie Pen</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-08-13-Sharpie_Pen.jpg)
+[![The Sharpie Pen](/static/img/2016-08-13-Sharpie_Pen.jpg "The Sharpie Pen")<br><small>The Sharpie Pen</small>](/static/img/2016-08-13-Sharpie_Pen.jpg)
 
 When you just have to put something on paper, these are the way to go.
 

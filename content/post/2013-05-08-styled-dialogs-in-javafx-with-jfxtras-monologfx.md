@@ -7,7 +7,7 @@ comment: false
 categories:
   - programming
 date: 2013-05-08 14:14:30
-modified: 2018-03-16T11:04:56.135457-04:00
+modified: 2018-03-25T15:51:21.511513-04:00
 ---
 
 I've been having a lot of fun learning [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html "Link to JavaFX developer"), even after many years of using the Java Swing framework.
@@ -22,7 +22,7 @@ After some exchanges with the package author, the very helpful Mark Heckler, I f
 
 Then it finally occurred to me. The important thing is the path to the resource. All you need to do is add a path to the resource in your program that mirrors the path to the resources in the MonologFX package. In this case that is `src\jfxtras\labs\dialogs`. With that directory in my project and my style sheet in that directory, things work as expected. For example, here's a screen capture of a tic-tac-toe program.
 
-[![Styled Tic-Tac-Toe Application with JavaFX and MonologFX](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-DialogSnip.png)<br><small>Styled Tic-Tac-Toe Application with JavaFX and MonologFX</small>](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-DialogSnip.png)
+[![Styled Tic-Tac-Toe Application with JavaFX and MonologFX](/static/img/2013-05-08-DialogSnip.png)<br><small>Styled Tic-Tac-Toe Application with JavaFX and MonologFX</small>](/static/img/2013-05-08-DialogSnip.png)
 
 The lower button, labeled "Reset" is styled and created in the main program. The dialog is created and styled with MonologFX.
 

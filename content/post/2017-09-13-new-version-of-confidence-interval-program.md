@@ -1,6 +1,7 @@
 ---
 title: A New Version of the Confidence Interval Program
 date: 2017-09-13 17:18:01
+modified: 2018-03-25T16:13:26.786536-04:00
 tags:
   - statistics
   - clojure
@@ -15,7 +16,7 @@ Another of the simple ones calculates the confidence interval around the proport
 
 So, I thought it might be fun to make an updated version. This time it's written in Clojure and uses the JavaFX GUI framework. Here's what it looks like now.
 
-[![A New Version of the Binomial Confidence Program](https://github.com/clartaq/yo-dave/raw/master/images/2017-09-13-new-confidence-limit-program.PNG "A New Version of the Binomial Confidence Program")<br><small>A New Version of the Binomial Confidence Program</small>](https://github.com/clartaq/yo-dave/raw/master/images/2017-09-13-new-confidence-limit-program.PNG)
+[![A New Version of the Binomial Confidence Program](/static/img/2017-09-13-new-confidence-limit-program.PNG "A New Version of the Binomial Confidence Program")<br><small>A New Version of the Binomial Confidence Program</small>](/static/img/2017-09-13-new-confidence-limit-program.PNG)
 
 The interface hasn't changed much, but it does display a progress dialog for the second or so that it might take to calculate the results for some input data. That gave me a chance to play with JavaFX `Task`s and progress dialogs. My usage feels a little clumsy, but it does work.
 

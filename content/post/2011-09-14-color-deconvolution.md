@@ -7,6 +7,7 @@ comment: false
 categories:
   - programming
 date: 2011-09-14 20:04:19
+modified: 2018-03-25T15:43:16.693783-04:00
 ---
 
 One method I've used in a number of imaging tasks is Color Deconvolution. You can think of color deconvolution as figuring out how much of each of a group of colors contributes to the final color of the pixels in an image.
@@ -16,11 +17,11 @@ In my previous work, I've used this technique to analyze and quantify the amount
 
 Here's a magnified image of a piece of tissue stained with hematoxylin and eosin. Those are red blood cells near the top. The dark purple structures near the bottom are nuclei. The rest of the pink stuff is stained mostly with eosin.
 
-[![Example of H&E Stained Tissue](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-14-HnEImage.jpg "Example of H&E Stained Tissue") <br><small>Example of H&E Stained Tissue</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-14-HnEImage.jpg)
+[![Example of H&E Stained Tissue](/static/img/2011-09-14-HnEImage.jpg "Example of H&E Stained Tissue") <br><small>Example of H&E Stained Tissue</small>](/static/img/2011-09-14-HnEImage.jpg)
 
 What if you want to know how much of each dye is staining a particular structure. Color deconvolution is the technique to use to find out. In addition to a big pile of numbers, the output can be shown visually to give an impression of the relative intensities. Below is an example of such output
 
-[![Three Channels of Deconvolved Image](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-14-DeconvSnip.PNG "Three Channels of Deconvolved Image")<br><small>Three Channels of Deconvolved Image</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-14-DeconvSnip.PNG)
+[![Three Channels of Deconvolved Image](/static/img/2011-09-14-DeconvSnip.PNG "Three Channels of Deconvolved Image")<br><small>Three Channels of Deconvolved Image</small>](/static/img/2011-09-14-DeconvSnip.PNG)
 
 The left sub-image represents the intensity of hematoxylin and is shown in roughly the color of the dye itself. The middle image shows how eosin is distributed through the tissue. The right image is what's "left over", neither hematoxylin or eosin.
 

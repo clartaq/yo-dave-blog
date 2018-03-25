@@ -10,7 +10,7 @@ comment: false
 categories:
   - programming
 date: 2011-07-09 22:37:26
-modified: 2018-03-15T18:00:05.004161-04:00
+modified: 2018-03-25T15:40:35.226042-04:00
 ---
 
 Sometimes weakness is a strength. That certainly seems to be the case for the lowly sign test. It is about the simplest statistical significance test imaginable. But if it tells you something is important, it probably is.
@@ -27,7 +27,7 @@ The calculations themselves are straightforward, if tedious, applications of the
 
 So, many years ago, I created a simple dedicated calculator that my colleagues at work could use themselves. Here's a screenshot.
 
-[![A Screenshot of the SignTest Program](https://github.com/clartaq/yo-dave/raw/master/images/2011-07-09-SignTestSnip.PNG "A Screenshot of the SignTest Program")<br><small>Screenshot of the SignTest Program</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-07-09-SignTestSnip.PNG)
+[![A Screenshot of the SignTest Program](/static/img/2011-07-09-SignTestSnip.PNG "A Screenshot of the SignTest Program")<br><small>Screenshot of the SignTest Program</small>](/static/img/images/2011-07-09-SignTestSnip.PNG)
 
 In this case, of the 1040 measurements that were not ties, 522 were cases where the experimental sample was judged "better" than the control in some way. In 488 cases, the control was judged better. Doing the calculation indicates that this split is verging on significance as indicated by p = 0.0507.
 

@@ -1,6 +1,7 @@
 ---
 title: Getting Images to Load and Preview in Hexo
 date: 2017-08-20 13:55:37
+modified: 2018-03-25T16:08:29.331202-04:00
 tags:
   - blogging
   - markdown
@@ -29,4 +30,9 @@ In most of the Markdown editors that I have used, referencing the image with a l
 `[![Happy Face Winking](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-20-HappyFaceWink.png "An Orange Happy Face Winking")<br><small>A Happy Face Winking</small>](https://github.com/clartaq/yo-dave/raw/master/images/HappyFaceWink.png)
 `
 
-[![Happy Face Winking](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-20-HappyFaceWink.png "An Orange Happy Face Winking")<br><small>A Happy Face Winking</small>](https://github.com/clartaq/yo-dave/raw/master/images/HappyFaceWink.png)
+[![Happy Face Winking](/static/img/2017-08-20-HappyFaceWink.png "An Orange Happy Face Winking")<br><small>A Happy Face Winking</small>](/static/img/HappyFaceWink.png)
+
+**Update**: 25 March 2018. Since moving the blog to Hugo, the strategy has changed. the image above is actually displayed here using the following:
+
+`[![Happy Face Winking](/static/img/2017-08-20-HappyFaceWink.png "An Orange Happy Face Winking")<br><small>A Happy Face Winking</small>](/static/img/HappyFaceWink.png)`
+

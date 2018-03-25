@@ -8,7 +8,7 @@ comment: false
 categories:
   - programming
 date: 2013-05-08 17:20:37
-modified: 2018-03-16T16:23:40.310248-04:00
+modified: 2018-03-25T15:53:51.054106-04:00
 ---
 
 Recently, I have been experimenting with [JavaFX](http://www.oracle.com/technetwork/java/javafx/overview/index.html "Link to JavaFX developer") in [Clojure](http://clojure.org/ "Link to the Clojure language home page."). Initially, in one of my experiments, I wanted to learn how to re-size a game-board interface as it's containing window was re-sized. In the past I've had medical device interfaces that draw a representation of a physical device and these drawings must re-size as their window is re-sized. The [initial experiment](https://clartaq.github.io/yo-dave/2013/02/18/2013-02-18-re-sizing-an-interface-in-javafx-and-clojure/) was with a simple interface for Tic-Tac-Toe. Since I had such a nice interface, I thought, why not program the complete game.
@@ -17,7 +17,7 @@ Recently, I have been experimenting with [JavaFX](http://www.oracle.com/technetw
 
 Well, it's done. The code is [here](https://bitbucket.org/David_Clark/tic-tac-toe). It's unbeatable. If you happen to win, it's a bug.
 
-[![An In-Progress Tic-Tac-Toe Game](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-PlaySnip.png)<br><small>An in-progress Tic-Tac-Toe game</small>](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-PlaySnip.png)
+[![An In-Progress Tic-Tac-Toe Game](/static/img/2013-05-08-PlaySnip.png)<br><small>An in-progress Tic-Tac-Toe game</small>](/static/img/2013-05-08-PlaySnip.png)
 
 The key to re-sizing is to watch the width and height properties of the window containing the board and attach change listeners to the properties. The relevant code from the program:
 

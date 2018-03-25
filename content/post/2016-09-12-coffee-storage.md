@@ -1,6 +1,7 @@
 ---
 title: Coffee Storage
 date: 2016-09-12
+modified: 2018-03-25T16:04:00.957293-04:00
 tags:
   - coffee
 ---
@@ -29,7 +30,7 @@ So, problem(s) solved. Why write this post? Well, the bags aren't (usually) very
 
 The search turned up a large number of possible solutions. First up are these [AirScape®](http://planetarydesign.com/products/airscape-kitchen-canisters/) canisters from [Planetary Design](http://planetarydesign.com/).
 
-[![An Image of the Planetary Design AirScape® Canister](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-AS-brushed-steel.jpg) <br>The Planetary Design AirScape® Canister <small>(Photo Credit: Planetary Design)</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-AS-brushed-steel.jpg)
+[![An Image of the Planetary Design AirScape® Canister](/static/img/2016-09-12-AS-brushed-steel.jpg) <br>The Planetary Design AirScape® Canister <small>(Photo Credit: Planetary Design)</small>](/static/img/2016-09-12-AS-brushed-steel.jpg)
 
 These containers are attractive, come in different colors, and are available in different sizes. Their "killer" feature though is that an inner piston can be moved down to the level of the contents, expelling any dead air above the contents. My wife uses these for tea and brown sugar, where they work great. For coffee though, we still have that problem of CO<sub>2</sub> being emitted by the beans. Might just blow the top off eventually. (Haven't ever tried to find out.)
 
@@ -37,7 +38,7 @@ These containers are attractive, come in different colors, and are available in 
 
 Next up are these nice [vacuum sealed canisters from Osaka](https://www.amazon.com/Osaka-Canister-Stainless-Container-Tempozan/dp/B01CZ0HBHW/ref=pd_ybh_a_11?ie=UTF8&refRID=EK8NPNAY4Q1YPY574MQ6).
 
-[![An Image of the Osaka Vacuum-Sealed Canister](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-Osaka_Vacuum_Container.jpg)<br>The Osaka Vacuum-Sealed Canister <small>(Photo Credit: Obtained from Amazon web site.)</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-Osaka_Vacuum_Container.jpg)
+[![An Image of the Osaka Vacuum-Sealed Canister](/static/img/2016-09-12-Osaka_Vacuum_Container.jpg)<br>The Osaka Vacuum-Sealed Canister <small>(Photo Credit: Obtained from Amazon web site.)</small>](/static/img/2016-09-12-Osaka_Vacuum_Container.jpg)
 
 This handy little container forms a vacuum-tight seal when you close it and lets you pump the air out. Theoretically, it might do a better job at removing air than the AirScape described above. But there is still the problem of what happens with emitted CO<sub>2</sub>. Depending on the way the vacuum pump works, it might allow the gas through after it re-pressurizes. Also, the top appears to be a transparent brown. Light probably isn't a problem through this material, but who knows.
 
@@ -45,7 +46,7 @@ This handy little container forms a vacuum-tight seal when you close it and lets
 
 What I actually decided to try is [this canister](https://www.amazon.com/Large-Coffee-Canister-Fresher-Container/dp/B01E1KFGZS/ref=pd_ybh_a_16?ie=UTF8&psc=1&refRID=NS8MXMFTGNZX501NWGCC) from [Gator Coffee](https://coffeegator.com/).
 
-[![An Image of the Coffee Gator Container](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-Large_Coffee_Gator_Canister.jpg)<br>The Osaka Vacuum-Sealed Canister <small>(Photo Credit: Obtained from Amazon web site.)</small>](https://github.com/clartaq/yo-dave/raw/master/images/2016-09-12-Large_Coffee_Gator_Canister.jpg)
+[![An Image of the Coffee Gator Container](/static/img/2016-09-12-Large_Coffee_Gator_Canister.jpg)<br>The Osaka Vacuum-Sealed Canister <small>(Photo Credit: Obtained from Amazon web site.)</small>](/static/img/2016-09-12-Large_Coffee_Gator_Canister.jpg)
 
 This one is completely opaque and has a one-way valve to release any gas that builds up. It's one of the more expensive of many similar options. However, the valve on this canister is permanent. Many lower-priced alternatives have valves that must be replaced from time to time. You could buy them or cut them out of the coffee bags you purchase, but it's a bit more hassle. The only downside with this canister is that you introduce air every time you use it. We'll see how much difference that makes. Hopefully, the freshly roasted beans I store in the canister will generate enough CO<sub>2</sub> to displace the air between uses. Bags of coffee are consumed pretty quickly around here. They should still be generating CO<sub>2</sub> and displacing air until they are used up.
 

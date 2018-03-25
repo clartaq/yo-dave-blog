@@ -12,7 +12,7 @@ comment: false
 categories:
   - programming
 date: 2011-09-22 08:06:10
-modified: 2018-03-16T10:16:47.485693-04:00
+modified: 2018-03-25T15:45:34.728098-04:00
 ---
 
 Many of the programs I write need a way to enter and edit a two-dimensional grid of data in the user interface. Such a grid doesn't need to be a full-fledged spreadsheet, just provide flexible data entry and editing. Alas, there doesn't seem to be such a thing and I haven't created one that I'm satisfied with.
@@ -31,7 +31,7 @@ The issues with most of the attempts so far seem to fall into two categories: pr
 
 **Component Sizing**. What should the component do if the space available to it is larger than the space needed? For example, suppose the particular application needs only two columns of data. When given more space than needed, the component should enforce its space requirements. Otherwise you are likely to get bit ugly gray areas of no man's land like this:
 
-[![Image of a Basic Data Grid with Empty Space](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-22-DataGrid.PNG "A Basic Data Grid with Empty Space") <br><small>A Basic Data Grid with Empty Space</small>](https://github.com/clartaq/yo-dave/raw/master/images/2011-09-22-DataGrid.PNG)
+[![Image of a Basic Data Grid with Empty Space](/static/img/2011-09-22-DataGrid.PNG "A Basic Data Grid with Empty Space") <br><small>A Basic Data Grid with Empty Space</small>](/static/img/2011-09-22-DataGrid.PNG)
 
 And what's with the insets on the row labels?
 

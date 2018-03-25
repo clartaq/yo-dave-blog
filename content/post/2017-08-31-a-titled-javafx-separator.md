@@ -1,6 +1,7 @@
 ---
 title: A Titled JavaFX Separator
 date: 2017-08-31 13:50:58
+modified: 2018-03-25T16:11:59.139578-04:00
 tags:
   - javafx
   - clojure
@@ -56,6 +57,6 @@ Instead of the standard black separator, this one is a nice grayish-blue. It coo
 ```
 and back comes a separator with a textual title in front of the rule line. If you call the function without a title, it will just return a nicely colored separator. The label will be in a bold version of the font normally used by the program and will be separated from the rule line by a few pixels. You can see what they look like in this screen shot of the [sign test program that I udpated recently](https://clartaq.github.io/yo-dave/2017/08/31/2017-08031-an-updated-sign-test-program/).
 
-[![A New Version of the Sign Test Program](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-32-new-sign-test-program.PNG "A New Version of the Sign Test Program")<br><small>A New Version of the Sign Test Program</small>](https://github.com/clartaq/yo-dave/raw/master/images/2017-08-32-new-sign-test-program.PNG)
+[![A New Version of the Sign Test Program](/static/img/2017-08-32-new-sign-test-program.PNG "A New Version of the Sign Test Program")<br><small>A New Version of the Sign Test Program</small>](/static/img/2017-08-32-new-sign-test-program.PNG)
 
  

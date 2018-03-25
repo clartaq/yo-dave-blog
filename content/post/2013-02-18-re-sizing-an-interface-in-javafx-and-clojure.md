@@ -10,7 +10,7 @@ comment: false
 categories:
   - programming
 date: 2013-02-18 21:48:11
-modified: 2018-03-16T11:03:08.013853-04:00
+modified: 2018-03-25T15:49:58.578662-04:00
 ---
 
 Since [JavaFX](http://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html "JavaFX overview") is the [future of the user interface for Java](http://www.oracle.com/technetwork/java/javafx/overview/faq-1446554.html#6 "JavaFX FAQ"), I've started trying to learn it. Since I'm also learning [Clojure](http://clojure.org/ "Clojure home page"), I'm doing the work in that language.
@@ -21,7 +21,7 @@ Well, one of the tasks I've set for myself recently was the creation of an inter
 
 (**NOTE**: The original image and the original program have been lost. The following image is a reasonable facsimile.)
 
-[![The startup screen for the tic-tac-toe application.](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-PlaySnip.png)<br><small>The startup screen for the tic-tac-toe application.</small>](https://github.com/clartaq/yo-dave/raw/master/images/2013-05-08-PlaySnip.png) 
+[![The startup screen for the tic-tac-toe application.](/static/img/2013-05-08-PlaySnip.png)<br><small>The startup screen for the tic-tac-toe application.</small>](/static/img/2013-05-08-PlaySnip.png) 
 
 When the window is re-sized, all of the requirements listed above are met.
 
