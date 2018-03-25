@@ -1,0 +1,60 @@
+baseURL = "https://yo-dave.com/"
+languageCode = "en-us"
+title = "Yo-Dave"
+author = "David"
+theme = "clajburn"
+newContentEditor = "Sublime Text"
+
+# Shown in the side menu
+copyright = "&copy; 2011-2018, David D. Clark. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+[indexes]
+  tag = "tags"
+
+[params]
+  # Shown on the home page
+  subtitle = "Things I'm Likely to Forget"
+
+  #CSS for highlight.js
+  highlightjs = "default"
+  highlightjs_extra_languages = ["yaml", "clojure", "lisp", "dos"]
+  dateFormat = "2 Jan 2006 3:04:05 PM" # "2006-01-02T15:04:05"
+
+[menu]
+  [[menu.main]]
+  # Shown on side menu.
+    [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 4
+    identifier = "about"
+    url = "/about/about"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 5
+    url = "/contact/contact"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  bitbucket = "David_Clark"
+  github = "clartaq"
+  stackoverflow = "193509"
