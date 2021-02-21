@@ -2,11 +2,11 @@ baseURL = "https://yo-dave.com/"
 languageCode = "en-us"
 title = "Yo-Dave"
 author = "David"
-theme = "clajburn"
+theme = "blackburn"
 newContentEditor = "Sublime Text"
 
 # Shown in the side menu
-copyright = "&copy; 2011-2018, David D. Clark. All rights reserved."
+copyright = "&copy; 2011-2020, David D. Clark. All rights reserved."
 canonifyurls = true
 paginate = 10
 
@@ -15,6 +15,7 @@ paginate = 10
 
 [indexes]
   tag = "tags"
+  topic = "topics"
 
 [params]
   # Shown on the home page
@@ -53,8 +54,7 @@ paginate = 10
     url = "/contact/contact"
 
 [social]
-  # Link your social networking accouns to the side menu
+  # Link your social networking accounts to the side menu
   # by entering your username or ID.
-  bitbucket = "David_Clark"
   github = "clartaq"
   stackoverflow = "193509"

@@ -1,6 +1,7 @@
 ---
 title: Why This Blog Disappeared for a Few Days
 date: 2016-12-08
+modified: 2018-03-27T10:38:51.305358-04:00
 tags:
   - technology
   - hosting
@@ -8,7 +9,7 @@ tags:
 
 Those of you who visit this site regularly may have noticed that is has been down for a few days. Here's why.
 
-About a week ago, I attempted to reboot the server after applying a few updates. It wouldn't come back up. As I've [written before](https://clartaq.github.io/yo-dave/2014/10/14/2014-10-14a-is-my-hosting-service-a-scam/), this site is hosted on [CloudAtCost](http://cloudatcost.com/). Sorry to say that it is a regular occurrence for servers not to reboot.
+About a week ago, I attempted to reboot the server after applying a few updates. It wouldn't come back up. As I've [written before](https://yo-dave.com/2014/10/14/is-my-hosting-service-a-scam/), this site is hosted on [CloudAtCost](http://cloudatcost.com/). Sorry to say that it is a regular occurrence for servers not to reboot.
 
 Usually, I can just file a ticket and get help in a day or so. This time,
 there was silence for four days. This time, the boot process reported an unrecoverable error on the SSD hosting the VM. But I was worried about the length of time it was taking them to reply. Then finally, an acknowledgment of the tick came. Whew!

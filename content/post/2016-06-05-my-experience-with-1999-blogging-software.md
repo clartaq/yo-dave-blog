@@ -24,7 +24,7 @@ If you don't have a [twitter](https://twitter.com/) account, get one. You will u
 
 You need a server too. The documentation has a very good description of installing the software on an [Ubuntu](http://www.ubuntu.com/) server.
 
-If you haven't got one, get one and configure it as described [here](http://yo-dave.com/2016/08/10/2016-08-10-my-server-setup-process/). I set up a minimal server as a test system on [CloudAtCost](http://cloudatcost.com/).
+If you haven't got one, get one and configure it as described [here](https://yo-dave.com/2016/08/10/my-server-setup-process/). I set up a minimal server as a test system on [CloudAtCost](http://cloudatcost.com/).
 
 After your server is all set up, you can follow the directions in the [setup instructions](https://github.com/scripting/1999-project/blob/master/docs/setup.md) for 1999.io. These instructions seem very complete except perhaps for how you configure your firewall to allow access to the appropriate port and websocket for the application. UFW (Uncomplicated Firewall) is easy to use and configure. The folks at [Digital Ocean](https://www.digitalocean.com/) have a good walk-through of how to use it on Ubuntu [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-14-04).
 

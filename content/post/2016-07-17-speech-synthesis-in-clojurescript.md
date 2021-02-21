@@ -21,7 +21,7 @@ lein new figwheel voice-demo --reagent
 ```
 Of course, `[figwheel](https://github.com/bhauman/lein-figwheel)` is there since it is such a help with ClojureScript development. The `--reagent` flag means that the project should be created to use the marvelous [Reagent](https://reagent-project.github.io/) library. Reagent is used primarily to do intelligent, dynamic updates to the DOM, but for this project, it is only used for its ease of creating UI components with the [Hiccup syntax](https://github.com/weavejester/hiccup/wiki/Syntax).
 
-You can grab a copy of the code from the [repository on Bitbucket](https://bitbucket.org/David_Clark/voice-demo). If you look in the README file and execute the command:
+You can grab a copy of the code from the [repository on HelixTeamHub](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/voice-demo/tree/default). If you look in the README file and execute the command:
 
 ```shell
 lein figwheel

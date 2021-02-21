@@ -12,7 +12,7 @@ categories:
   - programming
 ---
 
-I've used [enclojure](http://www.enclojure.org) (**Update 12 Mar 2018**: The link is now dead.) for a long time (in internet years). It has always seemed a bit finicky. However, with the 1.4 release and the switch to using [Maven](http://maven.apache.org) as the build tool, things stopped working. Projects that had worked fine before no longer compiled or executed. The "Getting Started" section of the enclojure web page appears to be hopelessly out of date and actually misleading. Here's what I had to do.
+I've used <del>[enclojure](http://www.enclojure.org)</del> (**Broken Link**) for a long time (in internet years). It has always seemed a bit finicky. However, with the 1.4 release and the switch to using [Maven](http://maven.apache.org) as the build tool, things stopped working. Projects that had worked fine before no longer compiled or executed. The "Getting Started" section of the enclojure web page appears to be hopelessly out of date and actually misleading. Here's what I had to do.
 
 <!--more-->
 

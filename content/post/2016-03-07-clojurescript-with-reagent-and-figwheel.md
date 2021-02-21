@@ -73,9 +73,9 @@ To quit, type: :cljs/quit
 cljs.user=>
 ```
 
-We’ll talk about some of the details later, but if you open a browser and navigate to http://localhost:3449, you should see this output:
+We’ll talk about some of the details later, but if you open a browser and navigate to `http://localhost:3449`, you should see this output:
 
-[![](https://github.com/clartaq/yo-dave/raw/master/images/2016-03-07-rgt-fw-hello-snip.PNG)](https://github.com/clartaq/yo-dave/blob/master/images/2016-03-07-rgt-fw-hello-snip.PNG)
+[![](https://yo-dave.com/static/img/2016-03-07-rgt-fw-hello-snip.PNG)](https://yo-dave.com/static/img/2016-03-07-rgt-fw-hello-snip.PNG)
 
 And, indeed we shall “FIXME” right now!
 
@@ -188,7 +188,7 @@ And speaking of things webby, let's polish up the HTML a bit. Open the `resource
 
 These changes make clear to browsers what language we are using (US English), what character set to use (UTF-8) and provide a link to the CSS style sheet we just added to the project. After saving these changes to HTML and CSS, you can reload the page in the browser and see the following:
 
-[![](https://github.com/clartaq/yo-dave/raw/master/images/2016-03-07-rgt-fw-hello-snip2.PNG)](https://github.com/clartaq/yo-dave/blob/master/images/2016-03-07-rgt-fw-hello-snip2.PNG)
+[![](https://yo-dave.com/static/img/2016-03-07-rgt-fw-hello-snip2.PNG)](https://yo-dave.com/static/img/2016-03-07-rgt-fw-hello-snip2.PNG)
 
 The text is still un-inspiring, but now it is in a snazzy sans-serif font. Woohoo!
 
@@ -249,7 +249,7 @@ Let's create the first sub-component, `header-component`, by defining a `header-
 
 Again we see the use of Hiccup-like syntax to build up another component. We see a new `div` and an `h1` header with text that includes a link to the Reagent project. If we were able to run the project right now, it would look like:
 
-[![](https://github.com/clartaq/yo-dave/raw/master/images/2016-03-07-rgt-fw-demo-title.PNG)](https://github.com/clartaq/yo-dave/blob/master/images/2016-03-07-rgt-fw-demo-title.PNG)
+[![](https://yo-dave.com/static/img/2016-03-07-rgt-fw-demo-title.PNG)](https://github.com/clartaq/yo-dave/blob/master/images/2016-03-07-rgt-fw-demo-title.PNG)
 
 ### A Two-Column Footer ###
 
@@ -278,7 +278,7 @@ Now add a function/component to render the footer.
 
 If you could run the program now, you would see a footer on your page that looked like this:
 
-[![](https://github.com/clartaq/yo-dave/raw/master/images/2016-03-07-rgt-fw-demo-footer.PNG)](https://github.com/clartaq/yo-dave/blob/master/images/2016-03-07-rgt-fw-demo-footer.PNG)
+[![](https://yo-dave.com/static/img/2016-03-07-rgt-fw-demo-footer.PNG)](https://yo-dave.com/static/img/2016-03-07-rgt-fw-demo-footer.PNG)
 
 ### Create a Body Component ###
 
@@ -322,7 +322,7 @@ The `clock` function creates a component that <em>does</em> use the value of `ti
 
 The home-page should look something like this in your browser:
 
-[![](https://github.com/clartaq/yo-dave/raw/master/images/2016-03-07-rgt-fw-demo-home-page.PNG)](2016-03-07-rgt-fw-demo-home-page.PNG)
+[![](https://yo-dave.com/static/img/2016-03-07-rgt-fw-demo-home-page.PNG)](https://yo-dave.com/static/img/2016-03-07-rgt-fw-demo-home-page.PNG)
 
 You should see your actual time that continually updates. All of the machinery for updating the view as the program state changes is out of site in the Reagent/React internals. We get the goodness for almost nothing.
 
@@ -330,6 +330,6 @@ The `Var`s containing program state can be arbitrarily complex and there can be 
 
 It's like magic.
 
-The complete project is available as a [Mercurial](https://www.mercurial-scm.org/) repository on [BitBucket](https://bitbucket.org/David_Clark/rgt-fw-demo).
+<del>The complete project is available as a [Mercurial](https://www.mercurial-scm.org/) repository on [BitBucket](https://bitbucket.org/David_Clark/rgt-fw-demo).</del> (**Broken Link**) This project is no longer available in a repository.
 
 **Update 2016-09-25**: Fixed a bug in the HTML where a `<ul>` element was embedded inside a `<p>` element. Updated dependencies in the project file. Updated the version number in the project and source file (although it is not shown in the copy of the screen shot.)

@@ -11,7 +11,7 @@ categories:
   - rant
 ---
 
-I've wanted to look into the [Pedestal](http://pedestal.io/) framework for creating web-based applications in [Clojure](http://clojure.org/). However, one of the requirements is [Leiningen](https://github.com/technomancy/leiningen) 2.2.0 or greater. And, as I've written [before](https://clartaq.github.io/yo-dave/2013/05/21/2013-05-21-the-clojure-development-toolchain/), version 2.2 will not install on my system because of spaces in the path of the user home directory. ("`C:\Users\David Clark`" on my system.)
+I've wanted to look into the [Pedestal](http://pedestal.io/) framework for creating web-based applications in [Clojure](http://clojure.org/). However, one of the requirements is [Leiningen](https://github.com/technomancy/leiningen) 2.2.0 or greater. And, as I've written [before](https://yo-dave.com/2013/05/21/the-clojure-development-toolchain/), version 2.2 will not install on my system because of spaces in the path of the user home directory. ("`C:\Users\David Clark`" on my system.)
 
 My user profile name is "david". That's what I use to sign on with. The fact that my home directory uses "David Clark" is an unfortunate result of how the computer was set up at the factory when I custom ordered it. This has been a periodic pain in the ass ever since I got the system because folks who develop tools primarily on other operating systems, just can't seem to deal with spaces in file paths. Even after all these years. It's a kind of snobbery that I just find annoying and trite. Windows exists. Get over it.
 

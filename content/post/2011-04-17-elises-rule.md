@@ -15,7 +15,7 @@ It's _freaking uncanny_.
 
 <!--more-->When my wife says "the computer", she means the dual-boot Windows/Linux box she usually works with. It's a relatively new Falcon Northwest system with a slightly overclocked i7 processor with liquid cooling, 16GB of RAM, a fast video card driving a 1920x1200 24" monitor, USB 3, a 1TB drive on a SATA III connection, running Windows 7 Professional (64-bit) and Ubuntu 10.10 (64-bit). The keyboard is a Logitech G110 with illuminated keys, which I truly adore. The mouse is a Logitech G500\. In addition, because of my paranoia about its stability, it has an additional 2TB of internal drives and 3TB external drives that I use for incessant backups. It's really a very sweet system if it weren't for this continuing problem.
 
-Let's talk about the most recent episode. While taking a couple days of vacation for my birthday, I was going to install [MikTeX](http://miktex.org/ "Link to miktex site") to create some nice [$latex \LaTeX$](http://www.latex-project.org/ "Link to the LaTeX project web page") documentation for a molecular dynamics simulation I've been working on.
+Let's talk about the most recent episode. While taking a couple days of vacation for my birthday, I was going to install [MikTeX](http://miktex.org/ "Link to miktex site") to create some nice [$\LaTeX$](http://www.latex-project.org/ "Link to the LaTeX project web page") documentation for a molecular dynamics simulation I've been working on.
 
 ### Networking Failure
 

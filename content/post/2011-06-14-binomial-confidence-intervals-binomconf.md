@@ -39,8 +39,8 @@ The Java version of the program was written back before IDEs were very good just
 
 `c:\ant test`
 
-Still, it's a handy little utility and I've made it available on BitBucket at
+Still, it's a handy little utility and I've made it available on HelixTeamHub at
 
-[https://bitbucket.org/David_Clark/binomconf](https://bitbucket.org/David_Clark/binomconf "Link to BinomConf repository on BitBucket.")
+[https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/binomconf/tree/default](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/binomconf/tree/default "Link to BinomConf repository on HelixTeamHub.")
 
 Enjoy!

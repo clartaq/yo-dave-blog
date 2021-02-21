@@ -1,7 +1,7 @@
 ---
 title: More on Loading Fonts
 date: 2013-08-12
-modified: 2018-03-16T16:52:51.170804-04:00
+modified: 2018-03-27T10:05:47.591726-04:00
 tags:
   - clojure
   - javafx
@@ -9,7 +9,7 @@ categories:
   - programming
 ---
 
-A couple days ago, I [posted a little snippet](http://yo-dave.com/2013/08/12/2013-08-12-more-on-loading-fonts/) showing how to load and font from a list of preferred fonts using [Clojure](http://clojure.org/) and [JavaFX](http://www.oracle.com/technetwork/java/javafx/overview/index.html). Well, I've extended the demo a bit to show how to load both fonts installed on the OS *and* fonts from a resource file.
+A couple days ago, I [posted a little snippet](https://yo-dave.com/2013/08/10/loading-fonts-like-css/) showing how to load and font from a list of preferred fonts using [Clojure](http://clojure.org/) and [JavaFX](http://www.oracle.com/technetwork/java/javafx/overview/index.html). Well, I've extended the demo a bit to show how to load both fonts installed on the OS *and* fonts from a resource file.
 
 Here's the new snippet.
 
@@ -113,4 +113,4 @@ Here's the project file.
       :main clojure_font_loading.core)
 ```
 
-I've put this in a [repository](https://bitbucket.org/David_Clark/clojure-font-loading) at BitBucket if you're interested. Note that you will have to create a sub-directory off of the `src/clojure_font_loading/` directory called `resources`. Then copy a font file of your choice into that directory. Then you will need to change the name of the font file in the source. (I did this because of fears of putting someone's copyrighted material into the repository. Don't want to do that.)
+I've put this in a [repository](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/clojure-font-loading/tree/default) at HelixTeamHub if you're interested. Note that you will have to create a sub-directory off of the `src/clojure_font_loading/` directory called `resources`. Then copy a font file of your choice into that directory. Then you will need to change the name of the font file in the source. (I did this because of fears of putting someone's copyrighted material into the repository. Don't want to do that.)

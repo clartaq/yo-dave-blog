@@ -1,7 +1,7 @@
 ---
 title: An Updated Sign Test Program
 date: 2017-08-31 13:05:51
-modified: 2018-03-25T16:10:26.633289-04:00
+modified: 2018-03-27T11:34:55.076093-04:00
 tags:
   - statistics
   - clojure
@@ -10,7 +10,7 @@ categories:
   - programming
 ---
 
-Long ago, I wrote a [post](https://clartaq.github.io/yo-dave/2011/07/09/2011-07-09-the-sign-test/) about a small program to calculate the probabilities of a sign test.
+Long ago, I wrote a [post](https://yo-dave.com/2011/07/09/the-sign-test/) about a small program to calculate the probabilities of a sign test.
 
 A lot has happened since then.
 
@@ -27,4 +27,4 @@ So I've updated the program a bit. Here's what it looks like now.
 - It uses a different build tool, Leiningen.
 - It has different dependencies, a couple of other libraries I have written.
 
-The old repository has been completely removed, but the [new one](https://bitbucket.org/David_Clark/signtest) has the same name, so all the old links should now point to the new library.
+The old repository has been completely removed, but the [new one](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/signtest/tree/default) has the same name, so all the old links should now point to the new library.

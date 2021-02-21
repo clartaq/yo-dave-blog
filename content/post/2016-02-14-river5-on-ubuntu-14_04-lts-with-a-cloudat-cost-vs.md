@@ -10,7 +10,7 @@ categories:
 
 [River5](https://github.com/scripting/river5) is the latest in a series of [RSS](https://en.wikipedia.org/wiki/RSS) News Aggretators written by [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer). You can read his announcement [here](http://scripting.com/liveblog/users/davewiner/2016/02/09/0995.html). These notes describe how to set up a River of News on a Virtual Server (VS) purchased or rented from [CloudAtCost](http://cloudatcost.com/) and freshly imaged with [Ubuntu](http://www.ubuntu.com/) 14.04.
 
-These notes assume that you have done some work in configuring your VS with a user, other than root, that has super user privileges. If you need help doing the initial setup of your VS, look [here](https://clartaq.github.io/yo-dave/2016/02/12/2016-02-12-cloudatcost-setup-notes/).
+These notes assume that you have done some work in configuring your VS with a user, other than root, that has super user privileges. If you need help doing the initial setup of your VS, look [here](https://yo-dave.com/2016/08/10/my-server-setup-process/).
 
 <!--more-->
 

@@ -1,14 +1,14 @@
 ---
 title: Coffee Storage
 date: 2016-09-12
-modified: 2018-03-25T16:04:00.957293-04:00
+modified: 2018-03-27T10:35:37.088939-04:00
 tags:
   - coffee
 ---
 
 I know, this is quite a "First World" kind of problem isn't it. Nevertheless...
 
-As I've [written before](https://clartaq.github.io/yo-dave/2015/05/10/2015-05-10-i-drink-coffee-because-it-tastes-good/), I like coffee. I probably spend too much on the beans as well. So, there is a need to store them correctly to maintain the best flavor for as long as possible.
+As I've [written before](https://yo-dave.com/2015/05/10/i-drink-coffee-because-it-tastes-good/), I like coffee. I probably spend too much on the beans as well. So, there is a need to store them correctly to maintain the best flavor for as long as possible.
 
 ### The Problem ###
 

@@ -9,7 +9,7 @@ categories:
 date: 2011-09-17 00:11:21
 ---
 
-A few weeks ago, I wrote a post about "[spare time](https://clartaq.github.io/yo-dave/2011/06/27/2011-06-27-spare-time-projects/ "Link to Spare Time Projects Post")" projects -- programming projects undertaken to learn something new, try something out, see how something works. These are activities undertaken to improve your skills and, maybe, scratch an itch that's been bothering you. These projects aren't typically related to work.
+A few weeks ago, I wrote a post about "[spare time](https://yo-dave.com/2011/06/27/spare-time-projects/ "Link to Spare Time Projects Post")" projects -- programming projects undertaken to learn something new, try something out, see how something works. These are activities undertaken to improve your skills and, maybe, scratch an itch that's been bothering you. These projects aren't typically related to work.
 
 In the past few days, Oren Eini (aka Ayende Rahien) wrote a [couple](http://ayende.com/blog/90113/if-you-donrsquo-t-have-pet-projects-i-donrsquo-t-think-i-want-you "First Ayende Post") of [posts](http://ayende.com/blog/102403/pet-projects-and-hiring-decisions "Second Ayende Post") expressing the opinion that if you don't do such projects, he probably doesn't want to hire you. The posts generated a _lot_ reaction on both sides.
 

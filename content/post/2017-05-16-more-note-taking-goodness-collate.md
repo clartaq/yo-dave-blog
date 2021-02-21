@@ -1,13 +1,13 @@
 ---
 title: More Note-Taking Goodness - Collate
 date: 2017-05-16
-modified: 2018-03-17T13:05:19.147120-04:00
+modified: 2018-03-27T11:04:24.793147-04:00
 tags:
   - writing
   - note-taking
 ---
 
-[Last time](https://clartaq.github.io/yo-dave/2017/04/03/2017-04-03-an-embarrassment-of-riches-for-note-taking/), I wrote about some of the really nice note-taking apps available nowadays. Since then, I've come across another great one I just had to tell you about: [Collate](https://collatenotes.com/).
+[Last time](https://yo-dave.com/2017/04/03/an-embarrassment-of-riches-for-note-taking/), I wrote about some of the really nice note-taking apps available nowadays. Since then, I've come across another great one I just had to tell you about: [Collate](https://collatenotes.com/).
 
 It has just about everything I could want. I'll let you read about all of its features on its web site, but some of the things I like most include:
 

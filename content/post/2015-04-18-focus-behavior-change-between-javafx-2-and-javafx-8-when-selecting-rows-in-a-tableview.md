@@ -1,7 +1,7 @@
 ---
 title: Focus Behavior Change between JavaFX 2 and JavaFX 8 when Selecting Rows in a TableView
 date: 2015-04-18
-modified: 2018-03-25T15:57:28.014840-04:00
+modified: 2018-03-27T10:12:47.264862-04:00
 tags:
   - java
   - javafx
@@ -14,7 +14,7 @@ For a little while now, I've been working on an application that manages a list 
 
 The application looks something like this:
 
-[![Image of the document manager main screen](/static/img/2015_04_18_Main_Screen_Capture.PNG "The document manager main screen")<br><small>The document manager main screen</small>](/static/img/2015_04_18_Main_Screen_Capture.PNG)
+[![Image of the document manager main screen](/static/img/2015_04_18_Main_Screen_Capture.PNG "The document manager main screen")<br><small>The document manager main screen</small>](/static/img/2015_04_18_Main_Screen_Capture_Cropped.PNG)
 
 The user selects the document they wish to view or edit by selecting it from the large `TableView` in the middle of the window. The area on the right provides controls to view and edit details. (The area on the left is for filtering the documents displayed in the central table.)
 

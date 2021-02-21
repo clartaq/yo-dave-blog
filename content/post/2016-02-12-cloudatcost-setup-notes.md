@@ -1,6 +1,7 @@
 ---
 title: CloudAtCost Setup Notes
 date: 2016-02-12
+modified: 2018-03-27T10:22:41.985319-04:00
 tags:
   - linux
   - servers
@@ -9,7 +10,7 @@ categories:
 ---
 
 ## Update: 10 Aug 2016 ##
-There's a new and improved version of this post [HERE](https://clartaq.github.io/yo-dave/2016/08/10/2016-08-10-my-server-setup-process/). Look at that instead.
+There's a new and improved version of this post [HERE](https://yo-dave.com/2016/08/10/my-server-setup-process/). Look at that instead.
 
 
 ----------

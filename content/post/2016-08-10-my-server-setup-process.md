@@ -9,7 +9,7 @@ date: 2016-08-10 15:58:09
 modified: 2018-03-17T10:40:37.259055-04:00
 ---
 
-[Earlier](http://yo-dave.com/2016/02/12/2016-02-12-cloudatcost-setup-notes/), I posted about how I set up servers hosted at [CloudAtCost](http://cloudatcost.com/). There have been a few changes to that process. Rather than continually patching that post, here&#8217;s a new description. Again, this is for [Ubuntu](http://www.ubuntu.com/) 14.04 which gets upgraded to 16.04 as part of the setup.
+[Earlier](https://yo-dave.com/2016/02/12/cloudatcost-setup-notes/), I posted about how I set up servers hosted at [CloudAtCost](http://cloudatcost.com/). There have been a few changes to that process. Rather than continually patching that post, here&#8217;s a new description. Again, this is for [Ubuntu](http://www.ubuntu.com/) 14.04 which gets upgraded to 16.04 as part of the setup.
 
 <!--more-->
 

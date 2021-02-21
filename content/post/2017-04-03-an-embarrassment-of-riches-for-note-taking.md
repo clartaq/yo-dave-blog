@@ -1,12 +1,13 @@
 ---
 title: An Embarrassment of Riches for Note-Taking
 date: 2017-04-03
+modified: 2018-03-27T10:59:50.168254-04:00
 tags:
   - note-taking
   - writing
 ---
 
-Ever since [dumping Evernote](https://clartaq.github.io/yo-dave/2016/12/15/2016-12-15-de-activating-my-evernote-account/), I've been looking at alternative note-taking apps. I've been using[ tiddlywiki](http://tiddlywiki.com/), but, surprisingly, it has grown a bit slow. Probably from the sheer volume of notes that I've imported from Evernote. Maybe time to look some more?
+Ever since [dumping Evernote](https://yo-dave.com/2016/12/15/de-activating-my-evernote-account/), I've been looking at alternative note-taking apps. I've been using[ tiddlywiki](http://tiddlywiki.com/), but, surprisingly, it has grown a bit slow. Probably from the sheer volume of notes that I've imported from Evernote. Maybe time to look some more?
 
 I've also been writing a lot of program documentation in Markdown. I like the wiki format just fine, but it seems like [Markdown](https://en.wikipedia.org/wiki/Markdown) can do more. Both markup languages have a plethora of dialects, usually incompatible. I have been a paid customer of [MarkdownPad2](http://markdownpad.com/) on Windows for awhile now. It is perfectly capable, but has not been updated in a few years (although the website keeps getting updated) and the preview pane can respond slowly after a syntax highlighted code block has been added. So, I've been doing more and more work using an editor I've written for my own use.
 

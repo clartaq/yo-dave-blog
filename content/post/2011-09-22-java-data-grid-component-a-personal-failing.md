@@ -21,7 +21,7 @@ Many of the programs I write need a way to enter and edit a two-dimensional grid
 
 Most of what you can find on the web is closed source or doesn't really fit the need. It all seems to be based on the [JTable](http://download.oracle.com/javase/tutorial/uiswing/components/table.html) component. I tend to go back and forth between getting fed up extending JTable going off to implement something better, which is just too hard, and going back to extending JTable. Rinse, lather, repeat. Aargh!
 
-It turns out that I'm not the only one to consider this. In a [post](http://stuffthathappens.com/blog/2008/01/17/jtable-time-to-rethink-nih/)(Broken Link) back in 2008 Eric Burke considers a similar problem. And yet, three years later the problem persists. [JXTable](http://download.java.net/javadesktop/swinglabs/releases/0.8/docs/api/org/jdesktop/swingx/JXTable.html)(Broken Link) addresses some of the issues, but not all.
+It turns out that I'm not the only one to consider this. In a <del>[post](http://stuffthathappens.com/blog/2008/01/17/jtable-time-to-rethink-nih/)</del> (**Broken Link**) back in 2008 Eric Burke considers a similar problem. And yet, three years later the problem persists. <del>[JXTable](http://download.java.net/javadesktop/swinglabs/releases/0.8/docs/api/org/jdesktop/swingx/JXTable.html)</del> (**Broken Link**) addresses some of the issues, but not all.
 
 The issues with most of the attempts so far seem to fall into two categories: presentation and functionality. Some examples:
 
@@ -45,7 +45,7 @@ And what's with the insets on the row labels?
 
 # What Do We Really Want? #
 
-Well, Excel is often used as a model, but it isn't really adequate either. I think we want something like the data grids in statistical programs like [Statistica](http://www.statsoft.com/#), [MiniTab](http://www.minitab.com/en-US/default.aspx), and others. These are not spreadsheets in the Excel sense (though they have some ability to calculate the contents of some cells based on the values in others.) They are dedicated data entry/editing components. And it seems like every manufacturer has developed their own, all with incompatible data formats.
+Well, Excel is often used as a model, but it isn't really adequate either. I think we want something like the data grids in statistical programs like [Statistica](http://www.statsoft.com/#) (Statistica has pretty much vanished through a seris of acquisitions), [MiniTab](http://www.minitab.com/en-US/default.aspx), and others. These are not spreadsheets in the Excel sense (though they have some ability to calculate the contents of some cells based on the values in others.) They are dedicated data entry/editing components. And it seems like every manufacturer has developed their own, all with incompatible data formats.
 
 I think we need something inspired by JTable, but independent of it. But this is a hard problem. Look at how long it took the SwingLabs team to come up with the changes in JXTable.
 

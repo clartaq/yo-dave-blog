@@ -138,4 +138,4 @@ The second interesting thing about read-config is that it uses `clojure.edn/read
 
 Granted, it is pretty unlikely that a user would sabotage their own machine this way for this use case, but why not get into the habit of using `clojure.edn/read-string` anyway? It is a drop-in replacement for `clojure.core/readstring` for this purpose.
 
-If you would like to try this yourself, you can download a project repository from [here](https://bitbucket.org/David_Clark/cnfdemo/overview).
+If you would like to try this yourself, you can download a project repository from [here](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/cnfdemo/tree/default).

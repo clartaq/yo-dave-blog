@@ -26,8 +26,8 @@ In the interests of domestic harmony (and to assure that a Windows recovery part
 
 This is probably the easiest step. In Ubuntu, pull down the System/Administration menu and select the Synaptic Package Manager. Then just find all the old Linux kernels in the list. You can search for "Linux" and in the resulting list, pick the ones you want to get rid of. For example,
 
-[THIS IMAGE HAS BEEN LOST]
-[![](http://saturdaynitebathsoap.com/blog/wp-content/uploads/2011/03/Screenshot1-1024x453.png "Screenshot")](http://clarkonium.net/?attachment_id=251)
+
+<del>[![](http://saturdaynitebathsoap.com/blog/wp-content/uploads/2011/03/Screenshot1-1024x453.png "Screenshot")](http://clarkonium.net/?attachment_id=251)</del> (**This image has been lost.**)
 
 In this image the Linux 2.6.35-24 and 2.6.35-25 kernels are selected for complete removal leaving the 2.6.35-27 kernel in place. (You don't want to remove all of the kernels of course.)
 

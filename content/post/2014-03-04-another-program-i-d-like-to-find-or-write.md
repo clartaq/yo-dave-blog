@@ -8,7 +8,7 @@ categories:
   - programming
 ---
 
-As I've [mentioned before](https://clartaq.github.io/yo-dave/2013/08/03/2013-08-03-cloud-storage-at-copy/), I use several cloud storage services. However, being a cheap bastard, I have only signed up for free accounts up to now. That means I have lots of little bits of storage scattered here and there (although recently [Box](https://www.box.com/) gave me 50GB free and my [Copy](https://www.copy.com/) account has risen to 25GB). But that means having to keep track of where I put certain things. It sure would be nice to have a program that would aggregate all these little pieces into a single thing.
+As I've [mentioned before](https://yo-dave.com/2013/08/03/cloud-storage-at-copy/), I use several cloud storage services. However, being a cheap bastard, I have only signed up for free accounts up to now. That means I have lots of little bits of storage scattered here and there (although recently [Box](https://www.box.com/) gave me 50GB free and my [Copy](https://www.copy.com/) account has risen to 25GB). But that means having to keep track of where I put certain things. It sure would be nice to have a program that would aggregate all these little pieces into a single thing.
 
 Aggregation into something like the [storage pools](https://en.wikipedia.org/wiki/ZFS#Storage_pools) of the [ZFS](https://en.wikipedia.org/wiki/ZFS) file system would be ideal. Having the ability to configure redundancy and RAID-like capabilities would be icing. Additional requirements would include cross platform operation and strong encryption on the client side.
 

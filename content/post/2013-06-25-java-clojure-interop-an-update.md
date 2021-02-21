@@ -12,7 +12,7 @@ date: 2013-06-25 18:16:04
 modified: 2018-03-16T16:42:36.332822-04:00
 ---
 
-My most popular answer on [Stack Overflow](http://stackoverflow.com/) has to do with [Clojure-Java interop](http://stackoverflow.com/questions/2181774/calling-clojure-from-java/2187427#2187427). Since that answer was written, some of the tools used in the answer, specifically [enclojure](http://enclojure.wikispaces.com/), have been deprecated. Because many of the follow-up questions related to how to build a working version of the answer, I thought it might be a good idea to update the post with modern tools.
+My most popular answer on [Stack Overflow](http://stackoverflow.com/) has to do with [Clojure-Java interop](http://stackoverflow.com/questions/2181774/calling-clojure-from-java/2187427#2187427). Since that answer was written, some of the tools used in the answer, specifically <del>[enclojure](http://enclojure.wikispaces.com/)</del> (**Broken Link**), have been deprecated. Because many of the follow-up questions related to how to build a working version of the answer, I thought it might be a good idea to update the post with modern tools.
 
 As this is written, the tools used include:
 

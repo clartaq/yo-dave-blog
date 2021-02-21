@@ -99,7 +99,7 @@ Another feature of JavaFX is the ability to style the interface elements. Since 
     }
 ```
 
-I've[ already written](https://clartaq.github.io/yo-dave/2013/05/08/2013-05-08-styled-dialogs-in-javafx-with-jfxtras-monologfx/) about achieving similarly styled dialogs in [MonologFX](https://blogs.oracle.com/javajungle/entry/monologfx_floss_javafx_dialogs_for "Link to MonologFX introduction blog.").
+I've[ already written](https://yo-dave.com/2013/05/08/styled-dialogs-in-javafx-with-jfxtras-monologfx/) about achieving similarly styled dialogs in [MonologFX](https://blogs.oracle.com/javajungle/entry/monologfx_floss_javafx_dialogs_for "Link to MonologFX introduction blog.").
 
 One of the nice things about writing a program like this in Clojure is the way listener-type methods can be written. This program has a few. Some `ChangeListener`s were shown above. There are also a couple of `EventListener`s for button clicks. In fact, most of the game play occurs in the method that listens for player clicks on the game board.
 
@@ -135,4 +135,4 @@ This method still feels like there is some room for improvement, but it works fo
 
 The computer player is closely derived from the one described in Chapter 10 of "Simply Scheme" by Brian Harvey and Matthew Wright. The unit tests in the project consist mostly of the example function usage shown in that chapter. The book is available in several forms [on-line](http://www.eecs.berkeley.edu/~bh/ssch10/ttt.html "Link to on-line version of Chapter 10 from Simply Scheme."). It is unbeatable. If you happen to beat the game, it is undoubtedly a program bug introduced in my translation.
 
-If you are interested in the complete code for the project, it is on BitBucket [here](https://bitbucket.org/David_Clark/tic-tac-toe "Link to Tic-Tac-Toe project repository.").
+If you are interested in the complete code for the project, it is on HelixTeamHub [here](https://helixteamhub.cloud/Regolith/projects/binom-stats/repositories/tic-tac-toe/tree/default"Link to Tic-Tac-Toe project repository.").

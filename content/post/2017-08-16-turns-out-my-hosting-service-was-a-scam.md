@@ -1,12 +1,13 @@
 ---
 title: Turns Out My Hosting Company **was** a Scam
 date: 2017-08-16 13:10:49
+modified: 2018-03-27T11:06:09.911222-04:00
 tags:
   - hosting
 ---
 
 
-Way back in 2014, I wrote a [post](https://clartaq.github.io/yo-dave/2014/10/14/2014-10-14a-is-my-hosting-service-a-scam/) asking whether my new hosting company, [CloudAtCost](http://cloudatcost.com/) was a scam. Back then, I concluded that they were not.
+Way back in 2014, I wrote a [post](https://yo-dave.com/2014/10/14/is-my-hosting-service-a-scam/) asking whether my new hosting company, [CloudAtCost](http://cloudatcost.com/) was a scam. Back then, I concluded that they were not.
 
 Fast forward to now, and it turns out they were a scam after all.
 

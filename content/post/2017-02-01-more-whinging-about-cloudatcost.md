@@ -1,12 +1,13 @@
 ---
 title: More Whinging about CloudAtCost
 date: 2017-02-01
+modified: 2018-03-27T10:58:03.441114-04:00
 tags:
   - hosting
   - technology
 ---
 
-I've written about my love/hate relationship with [CloudAtCost](http://cloudatcost.com/) before [here](https://clartaq.github.io/yo-dave/2014/10/14/2014-10-14a-is-my-hosting-service-a-scam/) and [here](https://clartaq.github.io/yo-dave/2016/12/08/2016-12-08-why-this-blog-disappeared-for-a-few-days/). In essence, I like the low cost but hate the poor reliability.
+I've written about my love/hate relationship with [CloudAtCost](http://cloudatcost.com/) before [here](https://yo-dave.com/2014/10/14/is-my-hosting-service-a-scam/) and [here](https://yo-dave.com/2016/12/08/why-this-blog-disappeared-for-a-few-days/). In essence, I like the low cost but hate the poor reliability.
 
 At one time I had seven web sites up and running on servers bought from CloudAtCost, including this one. But over a period of weeks and months they all failed for one reason or another. Some of the failures could be fixed with a ticket to tech support. Others could not and required rebuilding the server, re-installing software, changing DNS, and so on. And it doesn't get any better. I've had more "traditional" sites that have been up for years without any downtime except for scheduled maintenance.
 

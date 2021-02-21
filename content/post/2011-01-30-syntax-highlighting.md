@@ -16,14 +16,14 @@ Since this blog is mostly about programming, there are a lot of code listings. T
 
 Of all of the syntax highlighters I have tried, the [SyntaxHighlighter](http://alexgorbatchev.com/SyntaxHighlighter/) JavaScript tool by Alex Gorbachev is the one I most prefer. The [SyntaxHighlighter Evolved](https://wordpress.org/plugins/syntaxhighlighter/) is a nice WordPress plugin wrapped around the Gorbachev package. Setting things up in WordPress is trivial and just works.
 
-Although the plugin comes with many "brushes" for different languages, the one for Clojure is a bit simplistic. However, Brian Carper has taken the time to create[ a more sophisticated highlighter for Clojure](http://briancarper.net/blog/556/). He has even supplied a tweaked theme. The theme doesn't suit my tastes, but it looks good on his site.
+Although the plugin comes with many "brushes" for different languages, the one for Clojure is a bit simplistic. However, Brian Carper has taken the time to create <del>[a more sophisticated highlighter for Clojure](http://briancarper.net/blog/556/)</del> (**Broken Link**). He has even supplied a tweaked theme. The theme doesn't suit my tastes, but it looks good on his site.
 
 Brian's Clojure brush even seems to work well with Lisp
 
 ```clojure
 (defun verbose-sum (x y)
   &quot;Sum any two numbers after printing a message.&quot;
-  (format t &quot;Summing ~d and ~d.~%&quot; x y)
+  (format t "Summing ~d and ~d.~%" x y)
   (+ x y))
 ```
 
