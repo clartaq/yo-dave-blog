@@ -4,13 +4,21 @@ author: david
 title: Blogging Friction
 
 date: 2021-04-07T12:55:22.334-04:00
-modified: 2021-04-07T16:46:12.038-04:00
+modified: 2021-04-07T17:28:55.905-04:00
 tags:
   - blogging
 
   - cwiki
 
   - friction
+
+  - API
+
+  - GitHub
+
+  - git
+
+  - GitHub Pages
 
 ---
 
@@ -39,9 +47,10 @@ What else needs to happen?
 2. Figures and Images. The requirements for this seem to change fairly frequently. This is not Hugos' fault. My blog site is on [GitHub Pages](https://pages.github.com). The rules for where graphics should be are very unclear, at least to me. I somehow manage to get things set up, but the requirements seem to change every so often.
 3. Front Matter. What needs to be there? What is optional? What are acceptable formats? It used to be YAML, a terrible language for such information. Now it can be TOML too, much better for static information. I once made a half-hearted attempt to convert, but so many things broke that I reverted to YAML and haven't tried again.
 5. Themes. How much information does the blog theme require to operate correctly? Is it all in the blogging software configuration? Or does some of it reside in each blog? Do some themes require different bits of information?
-4. General Instability. Don't get me wrong, updates are a good thing. Bug fixes and expanded capabilities are good. But... I originally set up my current blog such that it generated no errors or warnings. That is no longer the case. There is new stuff that I am supposed to do. And the warnings don't give much information about where to learn about these new things. It's additional non-productive  maintenance to do.
+4. General Instability. Don't get me wrong, updates are a good thing. Bug fixes and expanded capabilities are good. But... I originally set up my current blog such that it generated no errors or warnings. That is no longer the case. There is new stuff that I am supposed to do. And the warnings don't give much information about where to learn about these new things. It's additional non-productive maintenance to do.
+6. Version Control. As mentioned above, this version of my blog is on GitHub Pages. That means there is version control involved. In addition to the steps I use to keep my local repository up to date, there are steps to keep the remote repository involved. Just about every attempt to push my changes to the remote origin on GitHub involves a search on StackOverflow to deal with the error message. It's pretty much magic incantations to those of us who grew up using different version control systems.
 
-These are a few simple items that need attention. But it is enough to annoy me. It was correct once. I have more interesting things to do than fiddle with someones blog generator. I can't imagine how off-putting this would be for someone who just wants to get their thoughts "out there" on the open web.
+These are a few simple items that need attention. But it is enough to annoy me. It was correct once. I have more interesting things to do than fiddle with someones blog generator. I can't imagine how off-putting this would be for someone who just wants to get their thoughts "out there" on the open web. It would be nice to address a standard API that could be used to publish my thoughts to any blog platform.
 
 That's enough whinging for today. Back to work on something interesting.
  
